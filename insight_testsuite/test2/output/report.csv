@@ -1,0 +1,43 @@
+Product Name,Year,Total Compalaints,Max complaints,Highest Percentage
+Product,ived,1,1,100
+Debt collection,2017,66,4,6
+Debt collection,2013,1,1,100
+Debt collection,2018,65,4,6
+Debt collection,2016,2,1,50
+Debt collection,2014,1,1,100
+"Payday loan, title loan, or personal loan",2017,13,2,15
+"Payday loan, title loan, or personal loan",2018,11,2,18
+"Credit reporting, credit repair services, or other personal consumer reports",2017,125,36,29
+"Credit reporting, credit repair services, or other personal consumer reports",2018,141,41,29
+"Money transfer, virtual currency, or money service",2017,23,16,70
+"Money transfer, virtual currency, or money service",2018,24,16,67
+Mortgage,2017,34,3,9
+Mortgage,2013,1,1,100
+Mortgage,2014,4,2,50
+Mortgage,2012,2,1,50
+Mortgage,2018,22,3,14
+Mortgage,2015,1,1,100
+Credit reporting,2014,8,5,62
+Credit reporting,2013,1,1,100
+Credit reporting,2016,1,1,100
+Credit reporting,2017,2,1,50
+Credit reporting,2012,1,1,100
+Credit reporting,2015,1,1,100
+Credit card or prepaid card,2017,30,7,23
+Credit card or prepaid card,2018,33,6,18
+Student loan,2017,12,6,50
+Student loan,2018,25,13,52
+Student loan,2014,1,1,100
+Vehicle loan or lease,2017,15,2,13
+Vehicle loan or lease,2018,7,1,14
+Consumer Loan,2015,1,1,100
+Consumer Loan,2016,1,1,100
+Checking or savings account,2017,17,4,24
+Checking or savings account,2018,18,5,28
+Credit card,2012,2,2,100
+Credit card,2014,1,1,100
+Credit card,2015,1,1,100
+Bank account or service,2015,1,1,100
+Bank account or service,2014,1,1,100
+Bank account or service,2016,2,1,50
+Bank account or service,2013,1,1,100
